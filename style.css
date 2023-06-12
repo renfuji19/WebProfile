@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+}
+.room img {
+  width: 100%;
+}
+.room {
+  position: relative;
+}
+.room h1 {
+  top : 100px;
+  font-size: 3em;
+  left : 100px;
+  color : white;
+  position: absolute;
+}
+.room a {
+  top: 360px;
+  left: 100px;
+  position: absolute;
+}
+.room .sis {
+  top: 150px;
+  position: absolute;
+}
+.room .smk {
+  top: 200px;
+  position: absolute;
+}
+.room .jalan {
+  top: 300px;
+  font-size: 1em;
+  position: absolute;
+}
+.room .jal {
+  top: 320px;
+  font-size: 1em;
+}
+
+.tom a {
+  background-color: #02B7D2;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
+.tom a:hover {
+  background-color: #223094;
+}
+.gel {
+  background-color: #343434;
+  height: 400pt;
+}
+.gel img {
+  height: 500px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.gel hr {
+  width: 100px;
+}
+.gel h3{
+  color: #02B7D2;
+}
+.gel h1 {
+  color: white;
+}
+.fel {
+  background-color: #02B7D2;
+  height: 210px;
+}
+.vel {
+  margin: 0;
+  margin-top: 0;
+  background-color: #343434;
+  height: 730px;
+}
+.vel h3,h2 {
+  margin-left: 25px;
+  color: #FFFFFF;
+}
+
+.see a {
+  background-color: #02B7D2;
+  color: white;
+  float: right;
+  margin-right: 50px;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+.see a:hover {
+  background-color: #223094;
+}
+.see h2 {
+  float: left;
+}
+.vel hr {
+  margin-top: 90px;
+}
+.ei a {
+  background-color: #02B7D2;
+  color: white;
+  float: right;
+  margin-right: 50px;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+.ei a:hover {
+  background-color: #223094;
+}
+.ei h2 {
+  float: left;
+}
+.eii a {
+  background-color: #02B7D2;
+  color: white;
+  float: right;
+  margin-right: 50px;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+.eii a:hover {
+  background-color: #223094;
+}
+.eii h2 {
+  float: left;
+}
